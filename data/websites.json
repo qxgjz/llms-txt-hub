@@ -14237,5 +14237,13 @@
     "category": "ai-ml",
     "favicon": "https://www.google.com/s2/favicons?domain=www.xugj520.cn&sz=128",
     "publishedAt": "2026-05-31"
+  },
+  {
+    "name": "AIToolCrux",
+    "domain": "https://www.aitoolcrux.com/",
+    "description": "Independent AI tool reviews and comparisons with real screenshots, benchmark data and honest pros/cons.",
+    "llmsTxtUrl": "https://www.aitoolcrux.com/llms.txt",
+    "category": "ai-ml",
+    "favicon": "https://www.google.com/s2/favicons?domain=aitoolcrux.com&size=128"
   }
 ]
